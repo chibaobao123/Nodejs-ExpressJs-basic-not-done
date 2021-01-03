@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "ao beta",
+      "id": "9T9iiYd-1"
+    },
+    {
+      "name": "bao",
+      "id": "z3nCnKvzF",
+      "email": "baobaochi123@gmail.com",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": "edliyNXTQ"
+    },
+    {
+      "name": "bao anh",
+      "phone": "123",
+      "id": "TzfZVZNxt"
+    },
+    {
+      "name": "bao lee",
+      "phone": "12344",
+      "id": "LTitNZ3oe"
+    },
+    {
+      "name": "nghi",
+      "phone": "12344",
+      "id": "HFfpWbw2j"
+    }
+  ]
+}
